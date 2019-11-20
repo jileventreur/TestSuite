@@ -1,0 +1,7 @@
+C:\Users\Cadam\source\repos\TestSuite\TestSuite\bin\Debug\TestSuite.exe.config
+C:\Users\Cadam\source\repos\TestSuite\TestSuite\bin\Debug\TestSuite.exe
+C:\Users\Cadam\source\repos\TestSuite\TestSuite\bin\Debug\TestSuite.pdb
+C:\Users\Cadam\source\repos\TestSuite\TestSuite\obj\Debug\TestSuite.csprojAssemblyReference.cache
+C:\Users\Cadam\source\repos\TestSuite\TestSuite\obj\Debug\TestSuite.csproj.CoreCompileInputs.cache
+C:\Users\Cadam\source\repos\TestSuite\TestSuite\obj\Debug\TestSuite.exe
+C:\Users\Cadam\source\repos\TestSuite\TestSuite\obj\Debug\TestSuite.pdb
